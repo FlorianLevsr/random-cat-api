@@ -1,0 +1,26 @@
+{
+  "name": "random-cat-api",
+  "version": "1.0.0",
+  "description": "Tiny API which sends a random cat picture. /ᐠ｡ꞈ｡ᐟ\\",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianLevsr/random-cat-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorianLevsr/random-cat-api/issues"
+  },
+  "homepage": "https://github.com/FlorianLevsr/random-cat-api#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^8.3.0"
+  }
+}

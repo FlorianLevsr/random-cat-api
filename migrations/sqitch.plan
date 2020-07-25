@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=random-cat-api
+%uri=https://random-cat-api.io/
+
+00-initial-schema 2020-07-25T09:10:42Z "Etudiant O'clock",,, <etudiant@teleporteur> # initial commit

@@ -1,0 +1,58 @@
+[
+    {
+        "category": "Celebrity",
+        "img": "https://media.wired.com/photos/5cdefc28b2569892c06b2ae4/master/w_2560%2Cc_limit/Culture-Grumpy-Cat-487386121-2.jpg",
+        "description": "Grumpy cat"
+    },
+    {
+        "category": "Celebrity",
+        "img": "https://i.kym-cdn.com/photos/images/newsfeed/001/535/446/1c5.jpg",
+        "description": "Smudge the cat"
+    },
+    {
+        "category": "Celebrity",
+        "img": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F07c6f5ac-4384-11e9-bfd2-5b366418ffd1.jpg?crop=1500%2C1000%2C0%2C0",
+        "description": "Lil bub"
+    },
+    {
+        "category": "Celebrity",
+        "img": "https://petset.com/wp-content/uploads/2016/05/Top-10-Most-Famous-Internet-Cats-06-Hamilton-Hipster-Cat.jpg",
+        "description": "Hamilton the hipster cat"
+    },
+    {
+        "category": "Celebrity",
+        "img": "https://petset.com/wp-content/uploads/2016/05/Top-10-Most-Famous-Internet-Cats-04-Venus-Two-Faced-Cat.jpg",
+        "description": "Venus the two-faced cat"
+    },
+    {
+        "category": "Celebrity",
+        "img": "https://pbs.twimg.com/media/ENIdxrfXUAYH8r8.jpg",
+        "description": "Ollie the polite cat"
+    },
+    {
+        "category": "Meme",
+        "img": "https://i.pinimg.com/originals/1b/74/f3/1b74f377689cf96e1aa26026c3ef1afd.jpg",
+        "description": "You're fired!"
+    },
+    {
+        "category": "Meme",
+        "img": "https://i.kym-cdn.com/photos/images/newsfeed/000/431/312/67e.jpg",
+        "description": "I should buy a boat."
+    },
+    {
+        "category": "Full-grown",
+        "img": "https://i.pinimg.com/originals/15/64/71/15647113df79021a6047a16f47355833.jpg",
+        "description": ""
+    },
+    {
+        "category": "Kitty",
+        "img": "https://www.saltwire.com/media/photologue/photos/cache/kittens_XR7VoTA_large.jpg",
+        "description": ""
+    },
+    {
+        "category": "Kitty",
+        "img": "https://i.pinimg.com/originals/a0/d3/c4/a0d3c4cb8f48455e75e5711df3651ea3.png",
+        "description": ""
+    }
+
+]
