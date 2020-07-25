@@ -3,3 +3,4 @@
 %uri=https://random-cat-api.io/
 
 00-initial-schema 2020-07-25T09:10:42Z "Etudiant O'clock",,, <etudiant@teleporteur> # initial commit
+10-allCats-function 2020-07-25T12:28:07Z "Etudiant O'clock",,, <etudiant@teleporteur> # ajout fonction pour recuperer tous les chats
