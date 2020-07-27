@@ -7,6 +7,7 @@ const categoryRouter = require('./router/categoryRouter');
 const app = express();
 
 app.use(express.json());
+app.use(express.urlencoded({extended: true}));
 
 app.use('/api/v1/cats', catRouter);
 app.use('/api/v1/categories', categoryRouter);

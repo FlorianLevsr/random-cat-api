@@ -3,6 +3,5 @@
 BEGIN;
 
 DROP FUNCTION get_categories();
-DROP FUNCTION get_random_cat();
 
 COMMIT;

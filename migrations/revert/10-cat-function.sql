@@ -2,6 +2,7 @@
 
 BEGIN;
 
-DROP FUNCTION get_cats();
+DROP FUNCTION search_cat_by_id(INT);
+DROP FUNCTION search_cat(TEXT);
 
 COMMIT;

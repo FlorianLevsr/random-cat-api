@@ -3,5 +3,6 @@
 %uri=https://random-cat-api.io/
 
 00-initial-schema 2020-07-25T09:10:42Z "Etudiant O'clock",,, <etudiant@teleporteur> # initial commit
-10-allCats-function 2020-07-25T12:28:07Z "Etudiant O'clock",,, <etudiant@teleporteur> # ajout fonction pour recuperer tous les chats
-20-category-function 2020-07-25T13:17:06Z "Etudiant O'clock",,, <etudiant@teleporteur> # ajout des fonctions relatives aux categories
+10-cat-function 2020-07-25T12:28:07Z "Etudiant O'clock",,, <etudiant@teleporteur> # ajout fonctions relatives aux chats
+20-category-function 2020-07-25T13:17:06Z "Etudiant O'clock",,, <etudiant@teleporteur> # ajout fonction get_categories
+30-views 2020-07-26T08:27:03Z "Etudiant O'clock",,, <etudiant@teleporteur> # creation des vues

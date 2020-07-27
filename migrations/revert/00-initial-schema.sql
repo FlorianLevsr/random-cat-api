@@ -2,7 +2,7 @@
 
 BEGIN;
 
-DROP TABLE cat;
-DROP TABLE category;
+DROP TABLE cat CASCADE;
+DROP TABLE category CASCADE;
 
 COMMIT;

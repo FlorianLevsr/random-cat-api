@@ -8,4 +8,10 @@ module.exports = {
         });
     },
 
+    getOne: async (request, response) => {
+        response.json({
+            data: await Category.findOneByPK(request.params.id)
+        });
+    },
+
 };
